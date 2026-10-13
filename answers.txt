@@ -1,0 +1,144 @@
+DO NOT CHANGE THE FORMAT -- DO NOT CREATE A NEW txt file
+
+=== Question 1.1 (4 marks) ===
+#Answer below
+
+
+=== Question 1.2 (6 marks) ===
+#For each guardrail: what it is, when or how often it happens, and what problem it prevents.
+#Include how progress is made visible, and how the team will inspect and adapt.
+#Answer below
+
+
+=== Question 1.3 (3 marks) ===
+#Answer below
+
+
+=== Question 2.2 (8 marks) ===
+#Pillar 1
+#Name and definition:
+#How to recognise it in a codebase:
+#Example from the sales package (class and field / method / declaration), and why:
+
+#Pillar 2
+#Name and definition:
+#How to recognise it in a codebase:
+#Example from the sales package (class and field / method / declaration), and why:
+
+#Pillar 3
+#Name and definition:
+#How to recognise it in a codebase:
+#Example from the sales package (class and field / method / declaration), and why:
+
+#Pillar 4
+#Name and definition:
+#How to recognise it in a codebase:
+#Example from the sales package (class and field / method / declaration), and why:
+
+
+=== Question 3.1 (3 marks) ===
+#Answer below
+
+
+=== Question 3.2 (5 marks) ===
+#Answer below
+
+
+=== Question 4.1.1 (1 mark) ===
+#Answer below
+
+
+=== Question 4.1.2 (3 marks) ===
+#Version I would release:
+#Justification for each of the three changes:
+
+
+=== Question 4.2 (4 marks) ===
+#Why could the tests reach the database driver but the packaged jar could not?
+#(The fix itself goes in pom.xml.)
+#Answer below
+
+
+=== Question 4.3 (3 marks) ===
+#Why must the pipeline run its steps in this order?
+#(The pipeline itself goes in .gitlab-ci.yml.)
+#Answer below
+
+
+=== Question 4.4 (2 marks) ===
+#What is pom.xml for?
+#Two things this project's pom.xml defines, and what Maven does with each:
+#Answer below
+
+
+=== Question 5.4 (3 marks) ===
+#PRIMARY KEY vs UNIQUE, and why id rather than (event_id, seat_label)?
+#(The constraints themselves go in DatabaseSchema.java.)
+#Answer below
+
+
+=== Question 6.1 (4 marks) ===
+#Check 1:
+#Check 2:
+#Check 3:
+#What the third check confirms that the first two cannot:
+
+
+=== Question 6.2.1 (1 mark) ===
+#Answer below
+
+
+=== Question 6.2.2 (1 mark) ===
+#Answer below
+
+
+=== Question 6.2.3 (1 mark) ===
+#Answer below
+
+
+=== Question 6.2.4 (1 mark) ===
+#Answer below
+
+
+=== Question 6.3 - Class diagram (5 marks) ===
+#Draw your class diagram below (PlantUML text or ASCII art)
+
+
+=== Question 6.3 - Explanation (3 marks) ===
+#Answer below
+
+
+=== Question 7.1.2 (4 marks) ===
+#(The script itself goes in webdev/ticket-picker/js/picker.js.)
+#Answer below
+
+
+=== Question 7.2.1 (2 marks) ===
+#Answer below
+
+
+=== Question 7.2.2 (2 marks) ===
+#Answer below
+
+
+=== Question 7.2.3 (3 marks) ===
+#1.
+#2.
+#3.
+
+
+=== Question 7.2.4 (1 mark) ===
+#Answer below
+
+
+=== Question 7.3.1 (2 marks) ===
+#Answer below
+
+
+=== Question 7.3.2 (2 marks) ===
+#Answer below
+
+
+=== Question 7.3.3 (2 marks) ===
+#Answer below
+

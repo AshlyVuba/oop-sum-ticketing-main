@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Pick a ticket</title>
+        <link rel="stylesheet" href="css/styles.css"/>
+        <script src="js/picker.js" defer></script>
+    </head>
+    <body>
+        <h1>Choose your ticket</h1>
+        <p>Click a ticket type, then check the total below.</p>
+        <ul id="ticket-types">
+            <li data-name="General" data-price="350">General: R350 each</li>
+            <li data-name="VIP" data-price="1500">VIP: R1500 each</li>
+            <li data-name="Season pass" data-price="400">Season pass: R400 per event</li>
+        </ul>
+        <label>Quantity
+            <input type="number" id="quantity" value="1" min="1"/>
+        </label>
+        <p id="summary"></p>
+    </body>
+</html>

@@ -1,0 +1,12 @@
+image: maven:3.9-eclipse-temurin-17
+
+before_script:
+  - apt-get update -qq && apt-get install -y -qq make
+
+# TODO: define the stages for this pipeline, then add the jobs for the
+# remaining stages. Each job should run the matching Makefile target.
+
+compile:
+  stage: compile
+  script:
+    - make compile
